@@ -1,3 +1,6 @@
+### Bu script /etc/hosts dosyasını düzenleyerek DNS poisoning oluşturur.
+
+```
 DELAY 100
 GUI r
 DELAY 500
@@ -16,3 +19,4 @@ DELAY 50
 ENTER
 REM STRING exit
 ENTER
+```
