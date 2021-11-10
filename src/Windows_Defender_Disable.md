@@ -9,7 +9,6 @@ ENTER
 DELAY 2000
 ENTER
 DELAY 1000
-REM Windows defender ayarlarından devre dışı bırakılır.
 TAB
 DELAY 70
 TAB
@@ -24,7 +23,7 @@ SPACE
 DELAY 1000
 TAB
 DELAY 70
-TAB
+TAB		
 DELAY 70
 ENTER
 DELAY 3200
