@@ -8,3 +8,4 @@ Actual repo is [here](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloa
 - [Windows Defender Kapatma](src/Windows_Defender_Disable.md)
 - [Chrome startup Sayfası değişme](src/Chrome_Startup_Page.md)
 - [DNS poison](src/DNS_Poisoning.md)
+- [Wi-Fi Şifre çalma](src/Wifi_Şifre_Çalma.md)
